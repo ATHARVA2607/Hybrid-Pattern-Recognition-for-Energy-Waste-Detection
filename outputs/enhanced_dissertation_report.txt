@@ -1,0 +1,100 @@
+
+ENHANCED HYBRID PATTERN RECOGNITION FRAMEWORK WITH INVENTORY MAPPING
+COMPREHENSIVE ANALYSIS REPORT
+================================================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Analysis Period: 2024-04-09 to 2025-02-28
+Total Data Points: 15,648 (30-minute intervals)
+Duration: 325 days
+Equipment Mapped from Inventory: 53 assets
+Inventory Coverage: 96.4%
+Patterns Extracted: 11/11 target patterns
+Anomalies Detected: 461
+Detection Rate: 2.95%
+
+INVENTORY MAPPING RESULTS
+-------------------------
+Total Columns in Dataset: 55
+Numeric Columns: 55
+Successfully Mapped: 53
+Coverage Percentage: 96.4%
+
+Equipment Categories Identified:
+  - lights_outdoor: 5 assets
+  - other_baseload: 2 assets
+  - platforms: 19 assets
+  - travel_center: 6 assets
+  - offices: 4 assets
+  - bothy: 3 assets
+  - lights_indoor: 9 assets
+  - lifts: 3 assets
+
+Assets by Location:
+  - Station buildings: 23 assets
+  - Footbridge: 4 assets
+  - Platforms: 24 assets
+  - Multi-location: 2 assets
+
+PATTERN RECOGNITION RESULTS
+---------------------------
+DTW Pattern Library: 11 patterns successfully extracted
+Average Detection Confidence: 0.215
+High Confidence Detections (>0.8): 0
+Multi-Method Consensus: 269 detections
+
+ECONOMIC IMPACT ANALYSIS
+------------------------
+Total Waste Energy Identified: 169.3 kWh
+Period Cost Impact: £42.33
+Projected Annual Cost Impact: £48
+System Investment Cost: £2,000
+Return on Investment Period: 504.9 months
+Cost per Detection: £0.09
+
+Equipment Category Analysis (Inventory-Based):
+  - Lights Outdoor: £55.08 (32.1%)
+    Assets: 5, Locations: Footbridge, Platforms
+  - Other Baseload: £22.82 (11.7%)
+    Assets: 2, Locations: Multi-location
+  - Platforms: £45.92 (21.0%)
+    Assets: 19, Locations: Platforms
+  - Travel Center: £9.40 (4.0%)
+    Assets: 6, Locations: Station buildings
+  - Offices: £20.03 (8.0%)
+    Assets: 4, Locations: Station buildings
+  - Bothy: £1.76 (0.9%)
+    Assets: 3, Locations: Station buildings
+  - Lights Indoor: £11.08 (5.7%)
+    Assets: 9, Locations: Station buildings
+  - Lifts: £44.93 (16.5%)
+    Assets: 3, Locations: Footbridge
+
+PERFORMANCE VALIDATION RESULTS
+------------------------------
+Technical Performance Metrics:
+  - Detection Accuracy: 0.931 (PASS)
+  - Precision: 0.163 (PASS)
+  - Recall: 0.097 (FAIL)
+  - F1-Score: 0.122 (FAIL)
+  - False Positive Rate: 0.026 (PASS)
+
+OVERALL SYSTEM ASSESSMENT
+-------------------------
+Performance Targets Met: 1/6
+Overall Score: 16.7%
+System Readiness: REQUIRES DEVELOPMENT - Major issues present
+Deployment Ready: NO
+
+KEY ENHANCEMENTS WITH INVENTORY MAPPING
+----------------------------------------
+✓ Accurate equipment identification using inventory database
+✓ Location-based anomaly clustering
+✓ Asset-specific waste rate calculation
+✓ Improved economic impact assessment by equipment category
+✓ Enhanced validation with known equipment configurations
+
+================================================================================
+Report Generated: 2025-09-04 20:39:25
+System Version: Enhanced Hybrid Framework with Inventory Mapping v3.0
